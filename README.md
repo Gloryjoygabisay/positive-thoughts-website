@@ -1,5 +1,7 @@
 # Positive Thoughts Website
 
+[![React CI/CD](https://github.com/Gloryjoygabisay/positive-thoughts-website/actions/workflows/cicd.yml/badge.svg)](https://github.com/Gloryjoygabisay/positive-thoughts-website/actions/workflows/cicd.yml)
+
 Welcome to the Positive Thoughts Website! This project is designed to spread positivity and joy through uplifting thoughts and quotes. Users can browse through a collection of positive thoughts, each presented in a visually appealing card format.
 
 ## Features
